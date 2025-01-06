@@ -1,4 +1,8 @@
 ## Hi there 👋
+I'm currently a student at UCF 
+I'm learning about Full Stack Projects
+I'm learning as I go
+
 
 <!--
 **WeirdWonders/WeirdWonders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
