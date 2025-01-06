@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm currently a student at UCF 
+I'm currently a student at UCF;
 I'm learning about Full Stack Projects
 I'm learning as I go
 
